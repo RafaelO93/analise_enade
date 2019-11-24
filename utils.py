@@ -1,0 +1,21 @@
+tabela_traducao = {
+    'QE_I08': "Renda total da família, incluindo seus rendimentos?", 
+    'QE_I21': "Alguém em sua família concluiu um curso superior?", 
+    'QE_I13': "Ao longo da sua trajetória acadêmica, você recebeu algum tipo de bolsa acadêmica?", 
+    'QE_I16': "Em que unidade da Federação você concluiu o ensino médio?", 
+    'QE_I26': "Qual a principal razão para você ter escolhido a sua instituição de educação superior?", 
+    'QE_I25': "Qual o principal motivo para você ter escolhido este curso?", 
+    'QE_I01': "Qual o seu estado civil?", 
+    'QE_I10': "Qual alternativa a seguir melhor descreve sua situação de trabalho (exceto estágio ou bolsas)?", 
+    'QE_I24': "Você teve oportunidade de aprendizado de idioma estrangeiro na Instituição?", 
+    'QE_I14': "Durante o curso de graduação você participou de programas e/ou atividades curriculares no exterior?", 
+    'QE_I15': "Seu ingresso no curso de graduação se deu por meio de políticas de ação afirmativa ou inclusão social?", 
+    'QE_I03': "Qual a sua nacionalidade?", 
+    'QE_I06': "Onde e com quem você mora atualmente?", 
+    'QE_I17': "Em que tipo de escola você cursou o ensino médio?", 
+    'QE_I02': "Qual é a sua cor ou raça?", 
+    'QE_I19': "Quem lhe deu maior incentivo para cursar a graduação?", 
+    'QE_I11': "Que tipo de bolsa de estudos ou financiamento do curso você recebeu para custear todas ou a maior parte das mensalidades?", 
+    'QE_I12': "Ao longo da sua trajetória acadêmica, você recebeu algum tipo de auxílio permanência?", 
+    'QE_I18': "Qual modalidade de ensino médio você concluiu?"
+} 
